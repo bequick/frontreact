@@ -1,0 +1,4 @@
+export const CREAR_TAREA = "CREAR_TAREA";
+export const OBTENER_TAREAS = "OBTENER_TAREAS";
+export const MODIFICAR_TAREA = "MODIFICAR_TAREA";
+export const BORRAR_TAREA = "BORRAR_TAREA";
